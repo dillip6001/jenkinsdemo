@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8135" started-at="2019-03-07T09:51:30Z" finished-at="2019-03-07T09:51:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8135" started-at="2019-03-07T09:51:30Z" finished-at="2019-03-07T09:51:38Z">
+      <class name="mavenProject.Google">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenProject.Google@7c16905e]" name="beforeTest" is-config="true" duration-ms="5419" started-at="2019-03-07T15:21:30Z" finished-at="2019-03-07T15:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenProject.Google@7c16905e]" name="f" duration-ms="63" started-at="2019-03-07T15:21:35Z" finished-at="2019-03-07T15:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenProject.Google@7c16905e]" name="afterTest" is-config="true" duration-ms="2624" started-at="2019-03-07T15:21:35Z" finished-at="2019-03-07T15:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavenProject.Google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
